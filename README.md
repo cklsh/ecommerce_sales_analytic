@@ -1,4 +1,4 @@
-# Shopee sales data science project
+# E-commerce sales EDA project
 
 ## Overview
 Predictive model: Sales Forecasting; Customer Segementation; Upsell Response Prediction
